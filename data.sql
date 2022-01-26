@@ -164,7 +164,7 @@ INSERT INTO cast (
     character
 )
 VALUES (
-    "The Dark Knight",
+    "The Dark Knight Rises",
     "Gary Oldman",
     "Commissioner Gordon"
 );
@@ -175,7 +175,7 @@ INSERT INTO cast (
     character
 )
 VALUES (
-    "The Dark Knight",
+    "The Dark Knight Rises",
     "Tom Hardy",
     "Bane"
 );
@@ -186,7 +186,7 @@ INSERT INTO cast (
     character
 )
 VALUES (
-    "The Dark Knight",
+    "The Dark Knight Rises",
     "Joseph Gordon-Levitt",
     "John Blake"
 );
@@ -197,7 +197,7 @@ INSERT INTO cast (
     character
 )
 VALUES (
-    "The Dark Knight",
+    "The Dark Knight Rises",
     "Anne Hathaway",
     "Selena Kyle"
 );

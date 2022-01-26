@@ -95,8 +95,10 @@ CREATE TABLE cast (
 -- Use hard-coded foreign key IDs when necessary
 -- TODO!
 
--- see "data.sql"
+-- see "data.sql" to see data inputs
 .read data.sql
+
+.width 25 20 19 20
 
 -- Prints a header for the movies output
 .print "Movies"
@@ -108,6 +110,8 @@ CREATE TABLE cast (
 
 SELECT title, year, rating, director
 FROM movies; 
+
+
 
 -- Prints a header for the cast output
 .print ""
