@@ -96,6 +96,7 @@ CREATE TABLE cast (
 -- TODO!
 
 -- see "data.sql"
+.read data.sql
 
 -- Prints a header for the movies output
 .print "Movies"
@@ -104,6 +105,9 @@ CREATE TABLE cast (
 
 -- The SQL statement for the movies output
 -- TODO!
+
+SELECT title, year, rating, director
+FROM movies; 
 
 -- Prints a header for the cast output
 .print ""
@@ -114,3 +118,6 @@ CREATE TABLE cast (
 
 -- The SQL statement for the cast output
 -- TODO!
+
+SELECT movie, name, character
+FROM cast;
