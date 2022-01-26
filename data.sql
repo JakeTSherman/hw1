@@ -92,4 +92,57 @@ VALUES (
     "Commissioner Gordon"
 );
 
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Christian Bale",
+    "Bruce Wayne"
+);
 
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Heath Ledger",
+    "Joker"
+);
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Aaron Eckhart",
+    "Harvey Dent"
+);
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Michael Caine",
+    "Alfred"
+);
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Maggie Gyllenhaal",
+    "Rachel Dawes"
+);
