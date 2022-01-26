@@ -146,3 +146,58 @@ VALUES (
     "Maggie Gyllenhaal",
     "Rachel Dawes"
 );
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight Rises",
+    "Christian Bale",
+    "Bruce Wayne"
+);
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Gary Oldman",
+    "Commissioner Gordon"
+);
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Tom Hardy",
+    "Bane"
+);
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Joseph Gordon-Levitt",
+    "John Blake"
+);
+
+INSERT INTO cast (
+    movie,
+    name,
+    character
+)
+VALUES (
+    "The Dark Knight",
+    "Anne Hathaway",
+    "Selena Kyle"
+);
