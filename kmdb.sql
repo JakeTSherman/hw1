@@ -85,7 +85,7 @@ CREATE TABLE movies (
 
 CREATE TABLE cast (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    movie_id INTEGER,
+    movie TEXT,
     name TEXT,
     character TEXT
 );
@@ -94,6 +94,8 @@ CREATE TABLE cast (
 -- Insert data into your database that reflects the sample data shown above
 -- Use hard-coded foreign key IDs when necessary
 -- TODO!
+
+-- see "data.sql"
 
 -- Prints a header for the movies output
 .print "Movies"
